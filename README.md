@@ -1,2 +1,2 @@
 # GitFlowVerification
-creating gitfloe demo
+creating gitflow demo
